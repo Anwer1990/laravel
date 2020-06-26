@@ -1,0 +1,5 @@
+<?php
+
+/**
+ *	Produit Helper
+ */
